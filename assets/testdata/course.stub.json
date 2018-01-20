@@ -1,0 +1,129 @@
+[
+  {
+    "id": 1,
+    "instanceid": 100,
+    "title": "SQL Advanced",
+    "subtitle": "Don't miss out on the training of the year!",
+    "details": "lorum ipsum dolor amet sit lorum ipsum dolor amet sit lorum ipsum dolor amet sit lorum ipsum dolor amet sit",
+    "availableplaces": 10,
+    "dates": [
+      {
+        "datetype": 1,
+        "datetime": "2018-01-16T00:00:00",
+        "sessionname": "startup session"
+      },{
+        "datetype": 2,
+        "datetime": "2018-01-20T00:00:00",
+        "sessionname": "betweener"
+      },
+      {
+        "datetype": 3,
+        "datetime": "2018-01-22T00:00:00",
+        "sessionname": "the best session of all"
+      }
+    ],
+    "subscriptions": [
+      {
+        "subscribername": "Robin",
+        "id": "1337"
+      },{
+        "subscribername": "Robin",
+        "id": "1337"
+      }
+    ],
+    "tags": [
+      {
+        "id": "10001",
+        "tagname": "SQL"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "instanceid": 100,
+    "title": "Omgaan met stress",
+    "subtitle": "We hebben allemaal last van stress, doe er wat aan!",
+    "details": "lorum ipsum dolor amet sit lorum ipsum dolor amet sit lorum ipsum dolor amet sit lorum ipsum dolor amet sit",
+    "availableplaces": 5,
+    "dates": [
+      {
+        "datetype": 1,
+        "datetime": "2018-02-16T00:00:00",
+        "sessionname": "startup session"
+      },
+      {
+        "datetype": 3,
+        "datetime": "2018-03-16T00:00:00",
+        "sessionname": "follow up"
+      },
+      {
+        "datetype": 3,
+        "datetime": "2018-03-18T00:00:00",
+        "sessionname": "follow up"
+      }
+    ],
+    "subscriptions": [
+      {
+        "subscribername": "Robin",
+        "id": "1337"
+      }
+    ],
+    "tags": [
+      {
+        "id": "10001",
+        "tagname": "SQL"
+      },{
+        "id": "10001",
+        "tagname": "Java"
+      },{
+        "id": "10001",
+        "tagname": "Dronen"
+      }
+    ]
+  },
+
+  {
+    "id": 2,
+    "instanceid": 100,
+    "title": "Agile jonguh",
+    "subtitle": "Bend it like Beckham",
+    "details": "lorum ipsum dolor amet sit lorum ipsum dolor amet sit lorum ipsum dolor amet sit lorum ipsum dolor amet sit",
+    "availableplaces": 10,
+    "dates": [
+      {
+        "datetype": 4,
+        "datetime": "2018-05-16T00:00:00",
+        "sessionname": "startup session"
+      },
+      {
+        "datetype": 3,
+        "datetime": "2018-05-16T00:00:00",
+        "sessionname": "startup session"
+      }
+    ],
+    "subscriptions": [
+      {
+        "subscribername": "Robin",
+        "id": "1337"
+      },{
+        "subscribername": "Batman",
+        "id": "1338"
+      },{
+        "subscribername": "Pietje",
+        "id": "1339"
+      }
+    ],
+    "tags": [
+      {
+        "id": "10001",
+        "tagname": "SQL"
+      },{
+        "id": "10002",
+        "tagname": "DataManagement"
+      },{
+        "id": "10002",
+        "tagname": "Less"
+      }
+    ]
+  }
+]
